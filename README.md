@@ -1,2 +1,0 @@
-# yandex.praktikun
- data analysis
